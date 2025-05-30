@@ -227,4 +227,3 @@ results_text = TextBox(main_box, multiline=True, width=80, height=30, grid=[0, 7
 
 app.display()
 
-Get Outlook for iOS
